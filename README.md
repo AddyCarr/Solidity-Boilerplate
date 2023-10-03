@@ -32,7 +32,7 @@ ETHERSCAN_API_KEY="<Etherscan API Key>"
 - **ALCHEMY_API_KEY**: Your Alchemy API key for advanced blockchain infrastructure.
 - **ETHERSCAN_API_KEY**: Your Etherscan API key for interacting with the Ethereum blockchain.
 
-Make sure to keep your `.env` file secure and never share it publicly, as it contains sensitive information required for interacting with the Ethereum network.
+Make sure to keep your `.env` file secure and never share it publicgit ly, as it contains sensitive information required for interacting with the Ethereum network.
 
 ## Contributing
 
